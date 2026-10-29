@@ -48,6 +48,20 @@ The dataset contains order dates, shipping information, customer details, produc
 2. Open the PBIX file in Power BI Desktop.
 3. Update the dataset path if prompted.
 4. Refresh the data if necessary.
+## Screenshots
+
+### Sales Dashboard
+![Sales Dashboard](Sales%20Dashboard.jpg)
+
+### Order Details Table
+![Order Details Table](Ordertable.jpg)
+
+### Filters and Visual Interactions
+![Filters](Filters.jpg)
+
+### Power Query Transformations
+![Power Query](powerquery.jpg)
+
 
 ## Purpose
 Educational data analysis project.
